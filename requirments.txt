@@ -1,0 +1,47 @@
+langchain
+langchain_community
+
+#for the jupyter nootbook
+ipykernel
+python_dotenv
+
+#for pdf loading
+pypdf
+
+#for web base loader
+bs4
+
+#for arxiv website
+arxiv 
+pymupdf
+
+# for wikipedia loading
+wikipedia
+
+langchain_text_splitters
+
+# for html text splitter
+lxml 
+
+chromadb
+
+sentence_transformers
+langchain_huggingface
+
+langchain_groq
+
+fastapi
+uvicorn
+langserve
+
+validators
+youtube_transcript_api
+unstructured
+pytube
+
+huggingface_hub
+
+pip install cassio datasets langchain openai tiktoken
+PyPDF2
+
+gradio
